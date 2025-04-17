@@ -56,17 +56,19 @@ The Employee Management System is a desktop-based application developed in Java 
 ## 🖼️ Screenshots
 
 - Login Page
-   ![Screenshot1](images/screenshot1.png)
+   ![Login Page](src/icons/loginpage.jpg)
 
 - Add Employee Form
   ![Add Employee](src/icons/add_employee.jpg)
 
  
 - View Employee Table
-  ![Screenshot1](images/screenshot1.png)
+  ![Screenshot1](src/icons/add_employee.jpg)
   
-- Update/Delete Screens
-  ![Screenshot1](images/screenshot1.png)
+- Update Employee Date
+  ![Screenshot1](src/icons/add_employee.jpg)
+- Delete Employee Data
+  ![Screenshot1](src/icons/add_employee.jpg)
 
 ---
 
